@@ -123,3 +123,17 @@
 2025-10-09 05:45:41,422 - Knowledge - INFO - Updating org costs, total cost: 0
 2025-10-09 05:45:42,286 - Knowledge - INFO - Saving knowledge to Redis...
 2025-10-09 05:45:42,372 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-10-09 05:55:50,204 - Knowledge - INFO - Redis support added with prefix knowledge:b8063oc:
+2025-10-09 05:55:50,449 - Knowledge - INFO - load persisted knowledge: begin
+2025-10-09 05:55:50,533 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/ImportedProjects_5000_files_codebase_Documentation_of_Code-4381.git:kavia-main
+2025-10-09 05:55:50,622 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fdde67a6b50>
+2025-10-09 05:55:50,696 - Knowledge - INFO - process ingested knowledge for /app/data/kaviademo4200/4381/b8063oc/ImportedProjects_5000_files_codebase_Documentation_of_Code-4381/README.md
+2025-10-09 05:55:50,811 - Knowledge - INFO - load persisted knowledge: end
+2025-10-09 05:55:50,912 - Knowledge - INFO - load persisted docinfo: begin
+2025-10-09 05:55:51,026 - Knowledge - INFO - load persisted docinfo: end
+2025-10-09 05:55:51,111 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-10-09 05:55:51,222 - Knowledge - INFO - knowledge worker kw1 start
+2025-10-09 05:55:51,308 - Knowledge - INFO - Knowledge creation complete
+2025-10-09 05:55:51,421 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-10-09 05:55:52,236 - Knowledge - INFO - Saving knowledge to Redis...
+2025-10-09 05:55:52,340 - Knowledge - INFO - Knowledge saved to Redis successfully
